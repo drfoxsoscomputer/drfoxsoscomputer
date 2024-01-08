@@ -10,6 +10,7 @@
 > Como Desarrollador Full Stack, me sumerjo en el código con la misma emoción con la que un artista aborda un lienzo en blanco. Tengo experiencia desarrollando proyectos con **JavaScript, React, PostgreSQL, Express, Sequelize,** me encanta la idea de convertir líneas de código en soluciones mágicas y funcionalidades innovadoras.
 > 
 > Mi mentalidad es la de un aventurero tecnológico, siempre dispuesto a explorar nuevas ideas y colaborar en proyectos apasionantes.  Estoy emocionado por la oportunidad de contribuir con mi energía y creatividad a un equipo dinámico.
+> 
 > 📫 Contactame:
 > 
 > <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="40"> **daprthefox@gmail.com**

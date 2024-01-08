@@ -8,25 +8,22 @@
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Sobre Mi en código
+
 ```js
 
 const drfoxsoscomputer = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, PostgreSQL, Express, Sequelize,
+  tools: [React, Redux, PostgreSQL, Express, Sequelize],
 }
 ```
 
 
-### 🤔 About
--  **Hobbies :** Books :books: | Music :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
--  **Pronouns :** He/Him/His :innocent:
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📊 Estadisticas del Perfil
+## Estadisticas del Perfil 📊
 
 [![drfoxsoscomputer github stats](https://github-readme-stats.vercel.app/api?username=drfoxsoscomputer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/drfoxsoscomputer/github-readme-stats)
 
@@ -34,7 +31,7 @@ const drfoxsoscomputer = {
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### ✨ Visitantes 
+## Visitantes ✨
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drfoxsoscomputer" alt="drfoxsoscomputer" /> </p>
 

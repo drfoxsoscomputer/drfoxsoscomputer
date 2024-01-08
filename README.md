@@ -4,8 +4,8 @@
 <h2 align="center">  Desarrollador Full Stack </h2> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/denis-drfox/"><img alt="LinkedIn" src="https://img.shields.io/badge/Denis_Drfox_Piña-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-drfox/"></a>
-</p>
+<a href="https://www.linkedin.com/in/denis-drfox/" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/Denis_Piña-blue?style=flat-square&logo=Linkedin&logoColor=white&href="https://www.linkedin.com/in/denis-drfox/"></a>
+  
 
 > ## Habilidades técnicas
 > * **Lenguaje:** Javascript

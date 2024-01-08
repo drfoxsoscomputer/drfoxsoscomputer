@@ -1,11 +1,19 @@
 ![Linkedin Banner](https://github.com/drfoxsoscomputer/drfoxsoscomputer/assets/73865181/62f53669-cb4f-4735-825d-70dea6437ea1)
 
-<h1 align="center"> Hola!, Mi nombre es Denis "DrFox" Piña 👨‍💻 </h1>
+<h1 align="center"> 👋 Hola!, Mi nombre es Denis "DrFox" Piña 👨‍💻 </h1>
 
 <h2 align="center">  Desarrollador Full Stack </h2> <br>
 
+## 🙋‍♂️ Sobre Mi
+> Soy un amante del código y un ávido aprendiz, siempre hambriento de conocimiento y dispuesto a enfrentar nuevos desafíos.
+> 
+> Como Desarrollador Full Stack, me sumerjo en el código con la misma emoción con la que un artista aborda un lienzo en blanco. Tengo experiencia desarrollando proyectos con **JavaScript, React, PostgreSQL, Express, Sequelize,** me encanta la idea de convertir líneas de código en soluciones mágicas y funcionalidades innovadoras.
+> 
+> Mi mentalidad es la de un aventurero tecnológico, siempre dispuesto a explorar nuevas ideas y colaborar en proyectos apasionantes.  Estoy emocionado por la oportunidad de contribuir con mi energía y creatividad a un equipo dinámico.
 
-> ## Habilidades técnicas
+
+
+## Habilidades técnicas
 > * **Lenguaje:** Javascript
 > * **FrontEnd:** React | Redux | HTML | CSS
 > * **BackEnd:** Node | Express 

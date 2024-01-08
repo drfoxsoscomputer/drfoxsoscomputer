@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center"> Hello, Mi nombre es Denis "DrFox" Piña 👨‍💻 </h1>
+<h1 align="center"> Hola!, Mi nombre es Denis "DrFox" Piña 👨‍💻 </h1>
 
 <h3 align="center">  Desarrollador Full Stack </h3> <br>
 
@@ -20,9 +18,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drfoxsoscomputer" alt="drfoxsoscomputer" /> </p>
 
-### 📊 Profile stats
+### 📊 Estadisticas del Perfil
 
-[![drfoxsoscomputer's github stats](https://github-readme-stats.vercel.app/api?username=drfoxsoscomputer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/drfoxsoscomputer/github-readme-stats)
+[![drfoxsoscomputer github stats](https://github-readme-stats.vercel.app/api?username=drfoxsoscomputer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/drfoxsoscomputer/github-readme-stats)
+
+
+
+[![drfoxsoscomputer github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=drfoxsoscomputer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/drfoxsoscomputer/github-readme-stats)
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

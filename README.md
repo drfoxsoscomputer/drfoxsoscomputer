@@ -5,7 +5,7 @@
 <h3 align="center">  Desarrollador Full Stack </h3> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/denis-drfox/"><img alt="LinkedIn" src="https://img.shields.io/badge/Denis_Drfox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-drfox/"></a>
+<a href="https://www.linkedin.com/in/denis-drfox/"><img alt="LinkedIn" src="https://img.shields.io/badge/Denis_Drfox_Piña-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-drfox/"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

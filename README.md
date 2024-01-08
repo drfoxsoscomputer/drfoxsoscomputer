@@ -10,10 +10,13 @@
 > Como Desarrollador Full Stack, me sumerjo en el código con la misma emoción con la que un artista aborda un lienzo en blanco. Tengo experiencia desarrollando proyectos con **JavaScript, React, PostgreSQL, Express, Sequelize,** me encanta la idea de convertir líneas de código en soluciones mágicas y funcionalidades innovadoras.
 > 
 > Mi mentalidad es la de un aventurero tecnológico, siempre dispuesto a explorar nuevas ideas y colaborar en proyectos apasionantes.  Estoy emocionado por la oportunidad de contribuir con mi energía y creatividad a un equipo dinámico.
+> 📫 Contactame:
+> 
+> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="40"> **daprthefox@gmail.com**
+> 
+>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/denis-drfox/)
 
-
-
-## Habilidades técnicas
+## ⭐ Habilidades técnicas
 > * **Lenguaje:** Javascript
 > * **FrontEnd:** React | Redux | HTML | CSS
 > * **BackEnd:** Node | Express 
@@ -31,7 +34,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
  
-## Estadisticas del Perfil 📊
+## 📊 Estadisticas del Perfil
 
 [![drfoxsoscomputer github stats](https://github-readme-stats.vercel.app/api?username=drfoxsoscomputer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/drfoxsoscomputer/github-readme-stats)
 
@@ -39,12 +42,12 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Visitas ✨
+## ✨ Visitas
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drfoxsoscomputer" alt="drfoxsoscomputer" /> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Mi rutina diaria
+## 📅 Mi rutina diaria
 ```js
 while(alive){
   eat(),

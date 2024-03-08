@@ -1,6 +1,6 @@
 ![Linkedin Banner](https://github.com/drfoxsoscomputer/drfoxsoscomputer/assets/73865181/62f53669-cb4f-4735-825d-70dea6437ea1)
 
-<h1 align="center"> 👋 Hola!, Mi nombre es Denis "DrFox" Piña 👨‍💻 </h1>
+<h1 align="center"> 👋 Hola!, Mi nombre es Denis 👨‍💻 </h1>
 
 <h2 align="center">  Desarrollador Full Stack </h2> <br>
 

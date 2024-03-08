@@ -13,9 +13,9 @@
 > 
 > 📫 Contactame:
 > 
-> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="40"> ```daprthefox@gmail.com```
+> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="20"> ```daprthefox@gmail.com```
 > 
->  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/denis-drfox/)
+>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/denis-drfox/)
 
 ## ⭐ Habilidades técnicas
 > * **Lenguaje:** Javascript

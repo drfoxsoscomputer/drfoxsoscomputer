@@ -12,12 +12,8 @@
 > Mi mentalidad es la de un aventurero tecnológico, siempre dispuesto a explorar nuevas ideas y colaborar en proyectos apasionantes.  Estoy emocionado por la oportunidad de contribuir con mi energía y creatividad a un equipo dinámico.
 > 
 > 📫 Contactame:
-> 
-> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="25"> ```
 
-daprthefox@gmail.com
-
-```
+> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="25"> ```daprthefox@gmail.com```
 
 >  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/denis-drfox/)
 ```linkedin.com/in/denis-drfox```

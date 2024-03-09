@@ -13,7 +13,7 @@
 > 
 > 📫 Contactame:
 > 
-> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="25"> ```html
+> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="25"> ```
 
 daprthefox@gmail.com
 
